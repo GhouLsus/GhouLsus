@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hardik Garg</h1>
-<h3 align="center">A second-year computer science (AI&ML) student in MIT MANIPAL</h3>
+<h3 align="center">A Third-year computer science (AI&ML) student in MIT MANIPAL</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghoulsus&label=views&color=e60000&style=flat" alt="ghoulsus" /> </p>
-
-- 🔭 I’m currently working on **Developing CorriDrone**
 
 - 🌱 I’m currently studying **Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning**
 
