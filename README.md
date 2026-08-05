@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Garg</h1>
+<h1 align="center">Hi, I'm Hardik Garg</h1>
 <h3 align="center">CS (AI/ML) graduate from MIT Manipal · Open to SDE / AI-ML opportunities</h3>
 
 <p align="center">
